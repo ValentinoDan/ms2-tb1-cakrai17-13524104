@@ -1,0 +1,3 @@
+connector_node:
+  ros__parameters:
+    mode: "autonomous"
